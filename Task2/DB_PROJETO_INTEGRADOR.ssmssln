@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "DB_PROJETO_INTEGRADOR", "DB_PROJETO_INTEGRADOR\DB_PROJETO_INTEGRADOR.ssmssqlproj", "{0417402B-E047-4591-969E-1A939D47C30F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0417402B-E047-4591-969E-1A939D47C30F}.Default|Default.ActiveCfg = Default
+		{11E60E31-07A7-45ED-9DF8-5452A35AAD85}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABFD81DC-F633-4644-AF3C-B8588B63E888}
+	EndGlobalSection
+EndGlobal
